@@ -1,0 +1,41 @@
+.ticket {
+  font-family: 'Raleway', sans-serif;
+  border: solid 2px;
+  width: 700px;
+  height: 192px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.ticket-number {
+  border: solid 1px;
+  padding: 2px;
+  margin: 2px;
+}
+.info {
+  margin: 10px;
+  float: left;
+  width: 200px;
+  height: 180px;
+  border-right: dashed 2px;
+}
+.content{
+  height: 150px;
+}
+
+.content-title {
+  font-family: 'Josefin Slab', sans-serif;
+}
+
+.content-description{
+  text-align: center;
+  font-size: 13px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 5px;
+}
+
+.ticket-price {
+  font-size: 20px;
+  margin-top: -5px;
+  float:right;
+}
